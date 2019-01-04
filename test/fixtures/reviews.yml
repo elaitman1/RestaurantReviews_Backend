@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  stars: 1
+  recomment: false
+
+two:
+  user_id: 
+  stars: 1
+  recomment: false
